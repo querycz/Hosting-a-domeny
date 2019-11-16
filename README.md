@@ -13,5 +13,12 @@ Parametry serverů:
   - Datové centrum splňuje technické požadavky TIER IV
   - Výjimečná fyzická bezpečnost viz https://www.serverpark.cz/bezpecnost
   - Monitoring běhu serveru 24 hodin denně, 7 dní v týdnu
+- Objednání hostingu probíhá na období jednoho roku dopředu
+- Fakturace probíhá jednou ročně dopředu
 
-Všeobecné obchodní podmínky pro poskytování hostingových služeb viz https://github.com/querycz/vop-hosting-domeny
+# Domény
+- Jako kontakt majitele domény je vždy uveden Objednatel
+- Registrace domén probíhá na období jednoho roku dopředu
+- Fakturace probíhá jednou ročně dopředu
+
+Všeobecné obchodní podmínky pro poskytování hostingových služeb a správy domén viz https://github.com/querycz/vop-hosting-domeny
