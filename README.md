@@ -6,9 +6,8 @@ Parametry serverů:
 - PHP 7.*
 - Apache/NGINX
 - Databáze MariaDB, MySQL nebo PerconaDB
-- HTTPS/SSL Let's Encrypt nebo vlastní certifikát
+- HTTPS/SSL použití Let's Encrypt nebo vlastní certifikát
 - HTTP/2
-
 - Servery jsou uloženy v datovém centru ServerPark (https://www.serverpark.cz)
   - Datové centrum splňuje technické požadavky TIER IV
   - Výjimečná fyzická bezpečnost viz https://www.serverpark.cz/bezpecnost
