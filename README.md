@@ -1,4 +1,4 @@
-# Hosting
+# Hosting a domény 🌐
 Parametry serverů:
 - SSD serverové Intel disky zapojeny v RAID
 - OS Linux CentOS
@@ -15,7 +15,7 @@ Parametry serverů:
 - Fakturace probíhá jednou ročně dopředu
 - Bezpečnostní audity od klientů Lagardère a Aegon/NN
 
-# Domény
+## Domény 
 - Jako kontakt majitele domény je vždy uveden Objednatel
 - Registrace domén probíhá na období jednoho roku dopředu
 - Fakturace probíhá jednou ročně dopředu
