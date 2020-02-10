@@ -1,5 +1,6 @@
 # Hosting a domény 🌐
-Parametry serverů:
+
+## Parametry serverů
 - SSD serverové Intel disky zapojeny v RAID
 - OS Linux CentOS
 - PHP 7.*
