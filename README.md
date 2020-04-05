@@ -18,7 +18,8 @@
 
 ## Domény 
 - Jako kontakt majitele domény je vždy uveden Objednatel
+- Jako technický a/nebo administrativní kontakt domény je uvedeno Query
 - Registrace domén probíhá na období jednoho roku dopředu
 - Fakturace probíhá jednou ročně dopředu
 
-Všeobecné obchodní podmínky pro poskytování hostingových služeb a správy domén viz https://github.com/querycz/vop-hosting-domeny
+Všeobecné obchodní podmínky pro poskytování hostingových služeb a správy domén viz https://github.com/querycz/vop-hosting-domeny.
