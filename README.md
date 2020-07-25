@@ -15,6 +15,7 @@
 - Objednání hostingu probíhá na období jednoho roku dopředu
 - Fakturace probíhá jednou ročně dopředu
 - Bezpečnostní audity od klientů Lagardère a Aegon/NN
+- Query je pojištěno proti odpovědnosti IT
 
 ## Domény 
 - Jako kontakt majitele domény je vždy uveden Objednatel
