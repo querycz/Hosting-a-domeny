@@ -14,7 +14,7 @@
   - Monitoring běhu serveru 24 hodin denně, 7 dní v týdnu
 - Objednání hostingu probíhá na období jednoho roku dopředu
 - Fakturace probíhá jednou ročně dopředu
-- Bezpečnostní audity od klientů Lagardère a Aegon/NN
+- Bezpečnostní audity od klientů Lagardère Travel Retail, Aegon/NN a Statutární město Most
 - Query je pojištěno proti odpovědnosti IT
 
 ## Domény 
