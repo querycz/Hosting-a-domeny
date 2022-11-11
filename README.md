@@ -8,10 +8,7 @@
 - Databáze MariaDB, MySQL nebo PerconaDB
 - HTTPS/SSL použití Let's Encrypt nebo vlastní certifikát
 - HTTP/2
-- Servery jsou uloženy v datovém centru ServerPark (https://www.serverpark.cz)
-  - Datové centrum splňuje technické požadavky TIER IV
-  - Výjimečná fyzická bezpečnost viz https://www.serverpark.cz/bezpecnost
-  - Monitoring běhu serveru 24 hodin denně, 7 dní v týdnu
+- Servery jsou uloženy v datových centrech splňující technické požadavky TIER III (T-mobile DC7 a Superhosting TTC2)
 - Objednání hostingu probíhá na období jednoho roku dopředu
 - Fakturace probíhá jednou ročně dopředu
 - Bezpečnostní audity od klientů Lagardère Travel Retail, Aegon/NN a Statutární město Most
