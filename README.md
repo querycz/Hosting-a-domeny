@@ -8,10 +8,10 @@
 - Databáze MariaDB, MySQL nebo PerconaDB
 - HTTPS/SSL použití Let's Encrypt nebo vlastní certifikát
 - HTTP/2
-- Servery jsou uloženy v datových centrech splňující technické požadavky TIER III (DC7, TTC Teleport a THP2)
+- Servery jsou uloženy v datových centrech splňující technické požadavky TIER III (DC7, TTC Teleport a THP2, Casablanca)
 - Objednání hostingu probíhá na období jednoho roku dopředu
 - Fakturace probíhá jednou ročně dopředu
-- Bezpečnostní audity od klientů Lagardère Travel Retail, Aegon/NN a Statutární město Most
+- Bezpečnostní audity a penetrační testy od klientů Lagardère Travel Retail, Aegon/NN a Statutární město Most
 - Query je pojištěno proti odpovědnosti IT
 
 ## Domény 
