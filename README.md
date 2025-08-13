@@ -1,4 +1,4 @@
-# Hosting a domény 🌐
+# 🌐 Hosting a domény
 
 ## Parametry serverů
 - SSD serverové Intel disky zapojeny v RAID
