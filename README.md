@@ -3,7 +3,7 @@
 ## Parametry serverů
 - SSD serverové Intel disky zapojeny v RAID
 - OS Linux CentOS
-- PHP 8.1, 8.*
+- PHP 8.3, 8.*
 - Apache/NGINX (reverse proxy)
 - Databáze MariaDB, MySQL nebo PerconaDB
 - HTTPS/SSL použití Let's Encrypt nebo vlastní certifikát
